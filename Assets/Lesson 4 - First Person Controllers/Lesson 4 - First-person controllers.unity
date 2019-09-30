@@ -416,9 +416,9 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 611616263}
   serializedVersion: 2
-  m_Mass: 100
-  m_Drag: 0
-  m_AngularDrag: 0.5
+  m_Mass: 10
+  m_Drag: 10
+  m_AngularDrag: 10
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
@@ -431,15 +431,15 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 611616263}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fed578196b9670f46965b7112bc55288, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   thisRigidbody: {fileID: 0}
-  thrustSpeed: 10
-  torqueSpeed: 5
-  speedLimit: 10
+  thrustSpeed: 30
+  torqueSpeed: 10
+  speedLimit: 30
   inputVector: {x: 0, y: 0}
 --- !u!1 &790278069 stripped
 GameObject:
@@ -1037,7 +1037,7 @@ PrefabInstance:
     - target: {fileID: -4216859302048453862, guid: 299e3f330fa04024281088d58fb082a0,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -18.938
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 299e3f330fa04024281088d58fb082a0,
         type: 3}
@@ -1047,7 +1047,7 @@ PrefabInstance:
     - target: {fileID: -4216859302048453862, guid: 299e3f330fa04024281088d58fb082a0,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.20229
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 299e3f330fa04024281088d58fb082a0,
         type: 3}
@@ -1188,6 +1188,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: grunthilde Rigidbody Controller
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 93d42a0c36d39d34a9d77263c13e8758,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 93d42a0c36d39d34a9d77263c13e8758,
         type: 3}

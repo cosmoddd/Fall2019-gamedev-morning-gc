@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Lightweight Pipeline - ExampleAssets/SampleScene.unity
     guid: d1c3109bdb54ad54c8a2b2838528e640
   - enabled: 1
-    path: Assets/Lessons 1 + 2 - Intro + Tank Controls/First Scene.unity
+    path: Assets/Lesson 1 + 2 - Intro + Tank Controls/First Scene.unity
     guid: 77e55612ca0b7704287abd0ecc768465
   m_configObjects: {}
