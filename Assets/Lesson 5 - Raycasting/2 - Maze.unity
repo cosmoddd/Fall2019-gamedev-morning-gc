@@ -2644,7 +2644,7 @@ CapsuleCollider:
   m_Height: 1
   m_Direction: 1
   m_Center: {x: 0, y: 10.26, z: -1.58}
---- !u!114 &2098223509
+--- !u!114 &2098223508
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2653,7 +2653,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2098223506}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2777e17708015e34b9cdb1161699a62f, type: 3}
+  m_Script: {fileID: 11500000, guid: cc0b7190b9ba178499625577176a2b09, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &2143824348
