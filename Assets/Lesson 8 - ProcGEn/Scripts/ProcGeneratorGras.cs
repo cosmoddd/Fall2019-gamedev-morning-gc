@@ -10,7 +10,6 @@ public class ProcGeneratorGras : MonoBehaviour
 
     public int grassMax = 200;
 
-
     void Start()
     {
         // int grassCounter = 0;
@@ -46,8 +45,10 @@ public class ProcGeneratorGras : MonoBehaviour
                                                   0);
 
             // INSTANTIATE BASED ON LOCATION AND ROTATION
-            Instantiate(gameGrassPrefab, spawnPos, Quaternion.Euler(randomRotation));
+            GameObject instantiatedGrass = Instantiate(gameGrassPrefab, spawnPos, Quaternion.Euler(randomRotation));
 
+            instantiatedGrass.GetComponent<MeshRenderer>().material.SetColor
+            ("_BaseColor", new Color(.25f,Random.Range(.43f,.83f), Random.Range(.3f,.6f),1f));
         }
 
 
