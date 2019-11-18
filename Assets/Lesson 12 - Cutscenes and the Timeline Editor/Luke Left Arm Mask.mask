@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Luke Left Arm Mask
+  m_Mask: 01000000010000000100000001000000010000000100000000000000010000000000000001000000010000000100000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/LHipJoint
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/LHipJoint/LeftUpLeg
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/LHipJoint/LeftUpLeg/LeftLeg
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/LHipJoint/LeftUpLeg/LeftLeg/LeftFoot
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/LHipJoint/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/LHipJoint/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase/LeftToeBase_end
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/LHipJoint/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase/LeftToeBase_end/LeftToeBase_end_end
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/LowerBack
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/LowerBack/Spine
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/LowerBack/Spine/Spine1
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/LowerBack/Spine/Spine1/LeftShoulder
+    m_Weight: 0
+  - m_Path: CMU compliant skeleton/Hips/LowerBack/Spine/Spine1/LeftShoulder/LeftArm
+    m_Weight: 0
+  - m_Path: CMU compliant skeleton/Hips/LowerBack/Spine/Spine1/LeftShoulder/LeftArm/LeftForeArm
+    m_Weight: 0
+  - m_Path: CMU compliant skeleton/Hips/LowerBack/Spine/Spine1/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+    m_Weight: 0
+  - m_Path: CMU compliant skeleton/Hips/LowerBack/Spine/Spine1/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftFingerBase
+    m_Weight: 0
+  - m_Path: CMU compliant skeleton/Hips/LowerBack/Spine/Spine1/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftFingerBase/LeftHandFinger1
+    m_Weight: 0
+  - m_Path: CMU compliant skeleton/Hips/LowerBack/Spine/Spine1/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftFingerBase/LeftHandFinger1/LeftHandFinger1_end
+    m_Weight: 0
+  - m_Path: CMU compliant skeleton/Hips/LowerBack/Spine/Spine1/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftFingerBase/LeftHandFinger1/LeftHandFinger1_end/LeftHandFinger1_end_end
+    m_Weight: 0
+  - m_Path: CMU compliant skeleton/Hips/LowerBack/Spine/Spine1/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LThumb
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/LowerBack/Spine/Spine1/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LThumb/LThumb_end
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/LowerBack/Spine/Spine1/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LThumb/LThumb_end/LThumb_end_end
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/LowerBack/Spine/Spine1/Neck
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/LowerBack/Spine/Spine1/Neck/Neck1
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/LowerBack/Spine/Spine1/Neck/Neck1/Head
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/LowerBack/Spine/Spine1/Neck/Neck1/Head/Head_end
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/LowerBack/Spine/Spine1/Neck/Neck1/Head/Head_end/Head_end_end
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/LowerBack/Spine/Spine1/RightShoulder
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/LowerBack/Spine/Spine1/RightShoulder/RightArm
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/LowerBack/Spine/Spine1/RightShoulder/RightArm/RightForeArm
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/LowerBack/Spine/Spine1/RightShoulder/RightArm/RightForeArm/RightHand
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/LowerBack/Spine/Spine1/RightShoulder/RightArm/RightForeArm/RightHand/RightFingerBase
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/LowerBack/Spine/Spine1/RightShoulder/RightArm/RightForeArm/RightHand/RightFingerBase/RightHandFinger1
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/LowerBack/Spine/Spine1/RightShoulder/RightArm/RightForeArm/RightHand/RightFingerBase/RightHandFinger1/RightHandFinger1_end
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/LowerBack/Spine/Spine1/RightShoulder/RightArm/RightForeArm/RightHand/RightFingerBase/RightHandFinger1/RightHandFinger1_end/RightHandFinger1_end_end
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/LowerBack/Spine/Spine1/RightShoulder/RightArm/RightForeArm/RightHand/RThumb
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/LowerBack/Spine/Spine1/RightShoulder/RightArm/RightForeArm/RightHand/RThumb/RThumb_end
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/LowerBack/Spine/Spine1/RightShoulder/RightArm/RightForeArm/RightHand/RThumb/RThumb_end/RThumb_end_end
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/RHipJoint
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/RHipJoint/RightUpLeg
+    m_Weight: 0
+  - m_Path: CMU compliant skeleton/Hips/RHipJoint/RightUpLeg/RightLeg
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/RHipJoint/RightUpLeg/RightLeg/RightFoot
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/RHipJoint/RightUpLeg/RightLeg/RightFoot/RightToeBase
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/RHipJoint/RightUpLeg/RightLeg/RightFoot/RightToeBase/RightToeBase_end
+    m_Weight: 1
+  - m_Path: CMU compliant skeleton/Hips/RHipJoint/RightUpLeg/RightLeg/RightFoot/RightToeBase/RightToeBase_end/RightToeBase_end_end
+    m_Weight: 1
+  - m_Path: eyebrow003Mesh
+    m_Weight: 1
+  - m_Path: fedoraMesh
+    m_Weight: 1
+  - m_Path: hair
+    m_Weight: 1
+  - m_Path: low-polyMesh
+    m_Weight: 1
+  - m_Path: luke
+    m_Weight: 1
+  - m_Path: male_worksuit01Mesh
+    m_Weight: 1
+  - m_Path: pretty_good_randoMesh
+    m_Weight: 1
+  - m_Path: shoes06Mesh
+    m_Weight: 1
+  - m_Path: teeth_shape03Mesh
+    m_Weight: 1
