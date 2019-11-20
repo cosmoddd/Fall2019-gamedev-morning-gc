@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;  // this allows use to use navmesh
 
-public class NavMeshMove : MonoBehaviour
+public class NavMeshMove2 : MonoBehaviour
 {
 
     public Transform goal;

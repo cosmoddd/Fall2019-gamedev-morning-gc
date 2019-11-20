@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
-public class NavMeshClick : MonoBehaviour
+public class NavMeshClick2 : MonoBehaviour
 {
 
     NavMeshAgent thisAgent;
